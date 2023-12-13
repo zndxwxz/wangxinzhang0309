@@ -1,0 +1,5 @@
+﻿  4.5.cpp
+C:\Users\29611\source\repos\4.5\4.5.cpp(18,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\29611\source\repos\4.5\4.5.cpp(19,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\29611\source\repos\4.5\4.5.cpp(47): warning C4715: “indexOf”: 不是所有的控件路径都返回值
+  4.5.vcxproj -> C:\Users\29611\source\repos\4.5\x64\Debug\4.5.exe
